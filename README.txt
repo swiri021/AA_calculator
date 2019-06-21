@@ -1,6 +1,6 @@
 <README>
 
-It is included UCSC data and NCIB data, Data copyright should be there.
+It is included UCSC data and NCBI data, Data copyright should be there.
 
 [USAGE]
 
